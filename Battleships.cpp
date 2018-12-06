@@ -1,7 +1,7 @@
 /** Escrito por Richard Mark Haes-ELlis **/
 
 /*  DESCRIPCION:
-
+ 
 Este juego esta programado para que
 el ordenador sea capaz de "pensar"
 por si solo, es decir, el ordenador
