@@ -23,7 +23,7 @@ conmigo por aqui >> Richard_9661@hotmail.com
 #include <ctime>
 #include <cstdlib>
 #include <stdio.h>
-// #include <conio.h>
+#include <conio.h>
 #define N 12
 
 //VARIABLES ALEATORIAS
